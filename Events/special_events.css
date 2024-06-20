@@ -1,0 +1,19 @@
+div {
+      text-align: right;
+    }
+    body {
+       background-color: #B2B2B2;
+    }
+    h1{ 
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      text-decoration: underline overline;
+      color:#EF533D;
+      text-shadow: 2px 2px 1px black;
+    }
+    section{
+      font-family:'Courier New', Courier, monospace;
+      color:#6a0000
+    }
+    mark{
+      background-color:lightsalmon;
+    }
